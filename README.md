@@ -5,7 +5,7 @@
 ![SNUNet](img/SNUNet.png)
 
 
-# Change_Detection Fellowship Keystone Project:
+# Change Detection Fellowship Capstone Project:
 
 ### Summary
 
