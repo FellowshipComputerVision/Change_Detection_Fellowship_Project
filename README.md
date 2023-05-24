@@ -5,7 +5,7 @@
 ![SNUNet](img/SNUNet.png)
 
 
-# Planet-Labs-Disaster-Data Fellowship Project:
+# Change_Detection Fellowship Keystone Project:
 
 ### Summary
 
